@@ -7,3 +7,4 @@ This repository aims to act as a centralised Issue tracker for NSIT's Open Sourc
 * [Mayank Badola](https://mayankbadola.me) (badola21295@gmail.com)
 * [Manan Pal Singh](https://mananpal1997.github.io) (mananpal42@gmail.com)
 * [Mohit Sharma](https://github.com/mohits10) (iammohitsharma@gmail.com)
+* [Naman Maheshwari](https://github.com/naman1901) (naman1901@gmail.com)
